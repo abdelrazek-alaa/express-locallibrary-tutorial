@@ -4,8 +4,7 @@ Project "Local Library" website written in in Node/Express.
 
 ## technologies used:
 
-1. Node.js
-1. Express web framework
+1. Node.js (Express.js)
 1. Mongoose ( MongoDB object modeling tool )
 1. Bootstrap
 
